@@ -6,11 +6,13 @@ h2{
 	color:black;
 	margin-left:150px;
 }
+li{
+	text-decoration:none;
+}
 .player_one{
 	background-color:white;
 	border: 2px solid #cccccc;;
 	color:#cccccc;
-	text-decoration:none;
 	
 }
 .player_two{
