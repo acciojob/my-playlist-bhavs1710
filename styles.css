@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+*{
+	background-color:#cccccc;
+}
+h2{
+	color:black;
+	margin-left:150px;
+}
+.player_one{
+	background-color:white;
+	border: 2px solid #cccccc;;
+	color:#cccccc;
+}
+.player_two{
+	background-color:white;
+	margin-left:80px;
+	margin-top:50px;
+	width:78px;
+	height:200px;
+}
+.audio{
+	margin-top:150px;
+	margin-left:80px;
+}
